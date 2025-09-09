@@ -7,30 +7,30 @@ Each lab includes screenshots, scripts, and notes.
 
 ## 1️⃣ Networking — Virtual Cloud Network
 ![VCN Screenshot](image.webp)  
-![VCN Screenshot](image (1).webp)
+![VCN Screenshot](image-(1).webp)
 *Configured Virtual Cloud Network with subnets, route table, and security list.*
 
 ---
 
 ## 2️⃣ Networking — OCI Load Balancer
-![Load Balancer Screenshot](image (2).webp)  
-![Load Balancer Screenshot](image (3).webp)  
-![Load Balancer Screenshot](image (4).webp)  
+![Load Balancer Screenshot](image-(2).webp)  
+![Load Balancer Screenshot](image-(3).webp)  
+![Load Balancer Screenshot](image-(4).webp)  
 *OCI Load Balancer distributing traffic between two backend web servers.*
 
 ---
 
 ## 3️⃣ Compute — Web Server on Compute Instance
-![Compute Screenshot](image (5).webp)  
-![Compute Screenshot](image (6).webp)  
-![Compute Screenshot](image (7).webp)  
+![Compute Screenshot](image-(5).webp)  
+![Compute Screenshot](image-(6).webp)  
+![Compute Screenshot](image-(7).webp)  
 *Apache HTTP server deployed on OCI compute instance showing custom Hello World page.*
 
 ---
 
 ## 4️⃣ Object Storage — Manage OCI Object Storage
-![Object Storage Screenshot](image (8).webp)  
-![Object Storage Screenshot](image (9).webp)  
+![Object Storage Screenshot](image-(8).webp)  
+![Object Storage Screenshot](image-(9).webp)  
 *Created Object Storage bucket and uploaded objects securely.*
 
 ---
@@ -42,9 +42,9 @@ Each lab includes screenshots, scripts, and notes.
 ---
 
 ## 6️⃣ Security — Configure Security Zones
-![Security Zones Screenshot](image (11).webp)  
-![Security Zones Screenshot](image (12).webp)  
-![Security Zones Screenshot](image (13).webp)  
+![Security Zones Screenshot](image-(11).webp)  
+![Security Zones Screenshot](image-(12).webp)  
+![Security Zones Screenshot](image-(13).webp)  
 *Applied Maximum Security Zone policies with Cloud Guard enforcement.*
 
 ---
