@@ -6,7 +6,7 @@ Each lab includes screenshots, scripts, and notes.
 ---
 
 ## 1️⃣ Networking — Virtual Cloud Network
-![VCN Screenshot](path/to/image.webp)  
+![VCN Screenshot](image.webp)  
 ![VCN Screenshot](path/to/vcn.png)
 image.webp
 *Configured Virtual Cloud Network with subnets, route table, and security list.*
