@@ -1,14 +1,13 @@
 # Oracle Cloud Infrastructure (OCI) Labs 
 
 This repo contains my completed hands-on labs for Oracle Cloud Infrastructure.  
-Each lab includes screenshots, scripts, and notes.
+Each lab includes screenshots and notes.
 
 ---
 
 ## 1️⃣ Networking — Virtual Cloud Network   
 *Configured Virtual Cloud Network with subnets, route table, and security list.*  
 📝 *Created a VCN in OCI with components.* 
-![VCN Screenshot](image.webp)  
 
 ![VCN Screenshot](image-(1).webp)
 
