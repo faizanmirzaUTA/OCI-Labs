@@ -1,18 +1,51 @@
-# Oracle Cloud Infrastructure Labs 
+# Oracle Cloud Infrastructure (OCI) Labs 
 
-This repository contains my hands-on labs for Oracle Cloud Infrastructure (OCI).  
-Each lab includes setup notes, scripts, and screenshots.  
-
-## Labs Completed
-1. Networking — Create and Configure a Virtual Cloud Network
-2. Networking — OCI Load Balancer
-3. Compute — Create a Web Server on an OCI Compute Instance
-4. Object Storage — Create and Manage OCI Object Storage
-5. Block Storage — Create and Attach a Block Volume
-6. Security — Configure Security Zones Using Maximum Security Zones
+This repo contains my completed hands-on labs for Oracle Cloud Infrastructure.  
+Each lab includes screenshots, scripts, and notes.
 
 ---
 
+## 1️⃣ Networking — Virtual Cloud Network
+![VCN Screenshot](path/to/vcn.png)  
+*Configured Virtual Cloud Network with subnets, route table, and security list.*
+
 ---
 
-Connect with me on [LinkedIn](https://linkedin.com/in/faizanmirzatx)
+## 2️⃣ Networking — OCI Load Balancer
+![Load Balancer Screenshot](path/to/loadbalancer.png)  
+*OCI Load Balancer distributing traffic between two backend web servers.*
+
+---
+
+## 3️⃣ Compute — Web Server on Compute Instance
+![Compute Screenshot](path/to/webserver.png)  
+*Apache HTTP server deployed on OCI compute instance showing custom Hello World page.*
+
+---
+
+## 4️⃣ Object Storage — Manage OCI Object Storage
+![Object Storage Screenshot](path/to/objectstorage.png)  
+*Created Object Storage bucket and uploaded objects securely.*
+
+---
+
+## 5️⃣ Block Storage — Attach Block Volume
+![Block Volume Screenshot](path/to/blockvolume.png)  
+*Attached block volume to VM instance and verified persistent storage.*
+
+---
+
+## 6️⃣ Security — Configure Security Zones
+![Security Zones Screenshot](path/to/securityzones.png)  
+*Applied Maximum Security Zone policies with Cloud Guard enforcement.*
+
+---
+
+Each lab folder will contain:
+- Scripts / cloud-init files
+- Screenshots
+- Notes (skills + steps)
+
+---
+
+🔗 Connect with me on [LinkedIn](https://linkedin.com/in/faizanmirzatx)  
