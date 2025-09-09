@@ -36,7 +36,7 @@ Each lab includes screenshots, scripts, and notes.
 ---
 
 ## 5️⃣ Block Storage — Attach Block Volume
-![Block Volume Screenshot](image (10).webp)  
+![Block Volume Screenshot](image-(10).webp)  
 *Attached block volume to VM instance and verified persistent storage.*
 
 ---
